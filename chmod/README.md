@@ -3,6 +3,7 @@
 - Trong hệ điều hành Linux/Unix chmod là lệnh dùng để thay đổi quyền truy cập của người dùng vào file/folder.
 # Syntax
 ```chmod [options] mode [mode] file1 file2 file3 ...```
+
 ```chmod [options]... Numeric_Mode file...```
 
 + options:
